@@ -19,4 +19,4 @@ A home virtualization server (homelab) I'm using to actually learn IT concepts b
 
 ## A bit about me
 
-Career-changer moving into IT (Help Desk → Desktop Support track). CompTIA A+ certified, working on Network+ next. Studying Business Analytics/Information Systems at USF.D
+Career-changer moving into IT (Help Desk → Desktop Support track). CompTIA A+ certified, working on Network+ next. Current College Student.
